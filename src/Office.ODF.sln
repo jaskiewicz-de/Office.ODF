@@ -5,6 +5,13 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Office.ODF", "Office.ODF\Office.ODF.xproj", "{FA93D8E4-4DB6-4ED9-AC05-0ECC34300913}"
 EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Web.Common", "..\..\Web.Common\src\Web.Common\Web.Common.xproj", "{FC5E0D64-3B8B-4EE6-995D-1BC27A3B102A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{84E92A59-56D9-47FA-8593-92C39E0D913F}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,10 @@ Global
 		{FA93D8E4-4DB6-4ED9-AC05-0ECC34300913}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA93D8E4-4DB6-4ED9-AC05-0ECC34300913}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA93D8E4-4DB6-4ED9-AC05-0ECC34300913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC5E0D64-3B8B-4EE6-995D-1BC27A3B102A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5E0D64-3B8B-4EE6-995D-1BC27A3B102A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5E0D64-3B8B-4EE6-995D-1BC27A3B102A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5E0D64-3B8B-4EE6-995D-1BC27A3B102A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
