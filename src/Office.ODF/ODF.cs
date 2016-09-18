@@ -1,9 +1,4 @@
-﻿// Copyright (c) 2016 Lukasz Jaskiewicz. All Rights Reserved
-// Licenced under the European Union Public Licence 1.1 (EUPL v.1.1)
-// See licence.txt in the project root for licence information
-// Written by Lukasz Jaskiewicz (lukasz@jaskiewicz.de)
-
-namespace Net.DevDone.Office.ODF
+﻿namespace Net.DevDone.Office.ODF
 {
     using System.IO;
     using System.IO.Compression;
